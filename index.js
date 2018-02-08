@@ -35,7 +35,7 @@ function iLoveTheBeatles(i) {
 
   do {
   console.log('I love the Beatles!');
-  } while (i < 15);
-
+} while (i < 15; i++);
+  
 
 }
