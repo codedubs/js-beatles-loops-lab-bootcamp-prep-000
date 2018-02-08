@@ -43,4 +43,5 @@ function iLoveTheBeatles(i) {
 }
 
 
-iLoveTheBeatles();
+iLoveTheBeatles(7);
+iLoveTheBeatles(18);
