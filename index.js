@@ -32,7 +32,7 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(i) {
 
   var result = [];
-  var i = 7;
+  var i = 0;
 
   do {
   i = i + 1;
@@ -44,4 +44,4 @@ function iLoveTheBeatles(i) {
 }
 
 
-random();
+iLoveTheBeatles(7);
