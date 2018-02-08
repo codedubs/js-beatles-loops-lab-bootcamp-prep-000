@@ -30,17 +30,18 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(i) {
+  
+  var result = [];
+  var i = 7;
 
-  var i = 0;
-  var arr = [];
-
-
-  do {
-
-  i = i++;
-  arr.push('I love the Beatles!');
+do {
+  i = i + 1;
+  result.push("I love the Beatles!");
 } while (i < 15);
 
-	return arr;
+console.log(result);
 
 }
+
+
+random();
