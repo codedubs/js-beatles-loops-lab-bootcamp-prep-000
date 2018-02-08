@@ -33,10 +33,10 @@ function iLoveTheBeatles(i) {
 
   var i = 0;
   var arr = [];
-	
-  
+
+
   do {
-	
+
   i = i++;
   arr.push('I love the Beatles!');
 } while (i < 15);
