@@ -44,4 +44,4 @@ function iLoveTheBeatles(i) {
 }
 
 
-iLoveTheBeatles(14);
+iLoveTheBeatles();
