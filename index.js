@@ -35,8 +35,10 @@ function iLoveTheBeatles(i) {
   var arr = [];
 
   do {
-  console.log('I love the Beatles!');
-} while (i < 15; i++);
+    i++;
+  arr.push('I love the Beatles!');
+} while (i < 15);
 
+return arr;
 
 }
